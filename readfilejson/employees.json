@@ -1,27 +1,22 @@
 [
     {
-        "name":"ThiDK",
-        "city":"Ha Noi",
-        "state":"HN"
+        "name": "ThiDk",
+        "city": "Ha Noi",
+        "state": "HN"
     },
     {
-        "name":"Hoang Beo",
-        "city":"Texas",
-        "state":"TX"
+        "name": "Dang Kim Thi",
+        "city": "Ha Noi",
+        "state": "HN"
     },
     {
-        "name":"Anh Luc",
-        "city":"Ha Nam",
-        "state":"HN"
+        "name": "Chau Anh",
+        "city": "Los Angeles",
+        "state": "LA"
     },
     {
-        "name":"Hieu Phan",
-        "city":"Ha Noi",
-        "state":"HN"
-    },
-    {
-        "name":"Thanh Dang",
-        "city":"Bac Ninh",
-        "state":"BN"
+        "name": "Nhat Minh",
+        "city": "Toranto",
+        "state": "CA"
     }
 ]
